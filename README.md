@@ -116,8 +116,9 @@ Animation platform built with React and Three.js
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31tnn4kym737p5yqxubls6xokqdu&cover_image=true&theme=default&background_color=121212&bar_color=53b14f)](https://open.spotify.com)
-
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31tnn4kym737p5yqxubls6xokqdu&cover_image=true&theme=default&show_offline=true" />
+</p>
 </div>
 
 ---
